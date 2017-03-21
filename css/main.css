@@ -1,0 +1,15 @@
+html {
+  overflow: hidden;
+}
+
+body {
+  background: #ffffff url("../images/bg.png") no-repeat right top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.blank-col {
+  height: 7.15rem;
+}
